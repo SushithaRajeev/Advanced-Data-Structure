@@ -1,0 +1,27 @@
+Sushitha Hanumanthappa Rajeeva
+200425621
+CS340 - Assignment1
+
+Input:
+1. Input to the program is a string with expression. 
+2. It can handle with/without space in between number and the operator. 
+3. characters are programmed to be an invadlid expression. 
+4. It can also handle numbers with more than 1 digit. 
+5. For Example: 
+   #valid Input Expression:: 1.(12 + 14 * 34) 
+                            2. 12 13 +
+                            3. * + 12 1 8
+   #Invalid Input:: 1. (12
+                    2. 12 + 
+                    3. 12 13
+                    4. 12 + a
+5. Program has the highest priority for the '*' and '/'
+   Example 1: Enter the expression:12 + 10 * 5
+              Evaluation of the Input Expression::62
+  
+   Example 2: When the brackets are used, priority goes to the operator inside the bracket.
+              Enter the expression:(12 + 10) * 5
+              Evaluation of the Input Expression::110  
+
+
+"Few part of the code has been refered from GeeksforGeeks"
