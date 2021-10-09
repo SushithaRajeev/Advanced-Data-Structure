@@ -1,0 +1,16 @@
+Sushitha Hanumanthappa Rajeeva
+200425621
+CS340 - Assignment2
+
+Input:
+1. Program will accept only numbers(Both positive and negative) as the input.
+2. While giving inputs it can handle one space in between numbers and more than one space will give you the error.
+   Ex: InputERROR: not a valid input.
+3. For all other symbols except numbers, It will give error.
+   Ex: Input: 2 & 4 5 a 1 0
+       output:InputERROR: not a valid input.
+4. First input will be the height of the Min-Max heap you wish to execute. 
+   According to the height you will have to give the elements of the tree and also you can make the choice of entering numbers.
+5. Height starts from 0 and the formula is power(2, h+1)-1.
+6. Next the program will ask you for certain options based on that it will perform the task i.e. Insert, DeleteMax, DeleteMin.
+
