@@ -1,0 +1,14 @@
+Sushitha Hanumanthappa Rajeeva
+200425621
+CS340 - Assignment3
+
+Input:
+
+1. Program takes two input, first one is the size of the array-n and the value of k.
+2. k and n accepts only positive number as input.
+2. After taking the value of n, it generates random non-duplicate elements of size n(no need to type it).
+3. First, it displays the unsorted elements.
+4. Second, it sorts the unsorted elements into 1. Insertionsort 2. Mergesort 3. Quicksort 4. QuickInsertion.
+5. It also shows the time taken by each sorting techniques.
+
+
